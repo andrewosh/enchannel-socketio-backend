@@ -36,8 +36,9 @@
     "rimraf": "^2.5.2"
   },
   "dependencies": {
-    "@reactivex/rxjs": "^5.0.0-beta.2",
+    "@reactivex/rxjs": "5.0.0-beta.2",
     "browser-request": "^0.3.3",
+    "request": "^2.69.0",
     "socket.io": "^1.4.5",
     "url-join": "0.0.1"
   },
